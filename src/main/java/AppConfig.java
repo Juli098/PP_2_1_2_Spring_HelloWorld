@@ -17,6 +17,5 @@ public class AppConfig {
         Cat cat = new Cat();
         cat.setMessage("It's a cat!");
         return cat;
-
     }
 }
